@@ -46,7 +46,6 @@ public class Insert_Interval_57 {
         // insert the last newInterval
         result.add(newInterval);
 
-
         // convert to int[][] array
         System.out.println(result.toArray(new int[result.size()][]));
         System.out.println(Arrays.deepToString(result.toArray(new int[result.size()][])));
